@@ -4,5 +4,5 @@ import Game from './game';
 
 ReactDOM.render(
   <Game />,
-  document.getElementById('root')
+  document.getElementById('root'),
 );
